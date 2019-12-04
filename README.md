@@ -1,6 +1,5 @@
 # 한양대학교 오픈 소스 SW 기초 수업 : 누군지 파악이 안되는 Github 링크 페이지
 
-- [ERICA_Simple_Account_Book_App](https://github.com/isume/ERICA_Simple_Account_Book_App)
 
 - [ERICA_IOT-door](https://github.com/dydtn8653/ERICA_IOT-door)
 
