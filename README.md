@@ -3,8 +3,6 @@
 
 - [ERICA_IOT-door](https://github.com/dydtn8653/ERICA_IOT-door)
 
-- [ERICA_WEBTOON-ALARM](https://github.com/namHG/ERICA_WEBTOON-ALARM)
-
 - [ERICA_helloseonida](https://github.com/funfunyoo/ERICA_2019_OSS-DontKnow/new/master?readme=1)
 
 - [ERICA_helloeonida](https://github.com/Kjjedd/ERICA_helloeonida)
